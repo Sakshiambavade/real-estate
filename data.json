@@ -1,0 +1,211 @@
+[
+  {
+    "id": 1,
+    "category": "Commercial",
+    "status": "Available",
+    "image": "https://readdy.ai/api/search-image?query=modern%20office%20space%2C%20cityscape%2C%20professional%20interior%2C%20natural%20light%2C%20urban%20environment%2C%20real%20estate&width=600&height=400&seq=1&orientation=landscape",
+    "alt": "Office Space",
+    "title": "Prime Business Hub",
+    "subtitle": "Central City",
+    "price": "₹ 10 Cr",
+    "address": "12 MG Road, Bangalore",
+    "features": {
+      "area": "15000 sq.ft",
+      "floors": "5 Floors",
+      "parking": "Yes",
+      "extra": [
+        "24/7 Security",
+        "CCTV Cameras",
+        "High-speed Elevators",
+        "Food Court"
+      ]
+    },
+    "detailsLink": "/OneBHK-listing"
+  },
+  {
+    "id": 2,
+    "category": "Residential",
+    "status": "Sold",
+    "image": "https://readdy.ai/api/search-image?query=luxury%20apartment%2C%20balcony%2C%20sunlight%2C%20city%20view%2C%20modern%20architecture%2C%20real%20estate&width=600&height=400&seq=2&orientation=landscape",
+    "alt": "Luxury Apartment",
+    "title": "Skyline Residency",
+    "subtitle": "Sector 45, Gurgaon",
+    "price": "₹ 2.3 Cr",
+    "address": "45 Sector Road, Gurgaon",
+    "features": {
+      "beds": "3 Beds",
+      "baths": "3 Baths",
+      "area": "1800 sq.ft",
+      "extra": [
+        "Gym Access",
+        "Swimming Pool",
+        "Community Hall",
+        "Kids Play Area"
+      ]
+    },
+    "detailsLink": "/OneBHK-listing"
+  },
+  {
+    "id": 3,
+    "category": "Plots",
+    "status": "Available",
+    "image": "https://readdy.ai/api/search-image?query=vast%20green%20land%2C%20open%20plot%2C%20sunny%20day%2C%20real%20estate%20landscape&width=600&height=400&seq=3&orientation=landscape",
+    "alt": "Land Plot",
+    "title": "Sunset Gardens",
+    "subtitle": "Near Lakeview",
+    "price": "₹ 1.2 Cr",
+    "address": "12 Lake Road, Pune",
+    "features": {
+      "plots": "3 Plots",
+      "entry": "1 Entry",
+      "area": "6000 sq.ft",
+      "extra": [
+        "Road Connectivity",
+        "Electricity",
+        "Water Supply",
+        "Fencing"
+      ]
+    },
+    "detailsLink": "/OneBHK-listing"
+  },
+  {
+    "id": 4,
+    "category": "Residential",
+    "status": "Available",
+    "image": "https://readdy.ai/api/search-image?query=modern%20villa%2C%20swimming%20pool%2C%20garden%2C%20daylight%2C%20luxury%20real%20estate&width=600&height=400&seq=4&orientation=landscape",
+    "alt": "Luxury Villa",
+    "title": "Palm Grove Villa",
+    "subtitle": "Seaside Colony",
+    "price": "₹ 5.5 Cr",
+    "address": "22 Beach Road, Chennai",
+    "features": {
+      "bedrooms": "5 Bedrooms",
+      "bathrooms": "6 Bathrooms",
+      "area": "5000 sq.ft",
+      "extra": [
+        "Private Pool",
+        "Garden Area",
+        "Garage",
+        "Gym"
+      ]
+    },
+    "detailsLink": "/OneBHK-listing"
+  },
+  {
+    "id": 5,
+    "category": "Commercial",
+    "status": "Available",
+    "image": "https://readdy.ai/api/search-image?query=modern%20retail%20store%2C%20city%20center%2C%20large%20windows%2C%20bright%20lighting%2C%20professional%20real%20estate%20photography&width=600&height=400&seq=5&orientation=landscape",
+    "alt": "Retail Store",
+    "title": "City Center Mall",
+    "subtitle": "Downtown Area",
+    "price": "₹ 15 Cr",
+    "address": "100 Market Street, Mumbai",
+    "features": {
+      "area": "20000 sq.ft",
+      "floors": "3 Floors",
+      "parking": "Available",
+      "extra": [
+        "High Footfall",
+        "Good Visibility",
+        "Escalators",
+        "Food Court"
+      ]
+    },
+    "detailsLink": "/OneBHK-listing"
+  },
+  {
+    "id": 6,
+    "category": "Apartments",
+    "status": "Sold",
+    "image": "https://readdy.ai/api/search-image?query=modern%20apartment%20complex%2C%20balcony%2C%20daylight%2C%20city%20view%2C%20real%20estate%20photography&width=600&height=400&seq=6&orientation=landscape",
+    "alt": "Modern Apartment",
+    "title": "Lakeside Apartments",
+    "subtitle": "Green Park",
+    "price": "₹ 80 Lac",
+    "address": "5 Green Avenue, Hyderabad",
+    "features": {
+      "beds": "2 Beds",
+      "baths": "2 Baths",
+      "area": "1200 sq.ft",
+      "extra": [
+        "Lake View",
+        "Gated Society",
+        "Security",
+        "Club House"
+      ]
+    },
+    "detailsLink": "/OneBHK-listing"
+  },
+  {
+    "id": 7,
+    "category": "Plots",
+    "status": "Featured",
+    "image": "https://readdy.ai/api/search-image?query=aerial%20view%20of%20large%20empty%20land%20plot%2C%20development%20potential%2C%20green%20surroundings%2C%20clear%20boundaries%2C%20professional%20real%20estate%20photography&width=600&height=400&seq=7&orientation=landscape",
+    "alt": "Commercial Land",
+    "title": "Greenfield Estate",
+    "subtitle": "Golden Acres",
+    "price": "₹ 3.2 Cr",
+    "address": "35 Srisailam Road, Hyderabad",
+    "features": {
+      "plots": "2 Plots",
+      "entry": "2 Entry",
+      "area": "4,000 sq.ft",
+      "extra": [
+        "Main Road",
+        "Land Allotment",
+        "Parking Ease",
+        "Amenities Available"
+      ]
+    },
+    "detailsLink": "/OneBHK-listing"
+  },
+  {
+    "id": 8,
+    "category": "Villas",
+    "status": "Sold",
+    "image": "https://readdy.ai/api/search-image?query=luxury%20villa%20with%20swimming%20pool%2C%20modern%20architecture%2C%20palm%20trees%2C%20landscaped%20garden%2C%20high-end%20real%20estate%2C%20professional%20photography&width=600&height=400&seq=8&orientation=landscape",
+    "alt": "Luxury Villa",
+    "title": "Azure Springs Villas",
+    "subtitle": "Royal Crest Estates",
+    "price": "₹ 4.5 Cr",
+    "address": "12 Emerald Lane, Delhi",
+    "features": {
+      "bedrooms": "4 Bedrooms",
+      "bathrooms": "5 Bathrooms",
+      "area": "3500 sq.ft",
+      "extra": [
+        "Landscaped Villa",
+        "Pet-Stage Recognized",
+        "Swimming Pool",
+        "Modern Interiors"
+      ]
+    },
+    "detailsLink": "/OneBHK-listing"
+  },
+  {
+    "id": 9,
+    "category": "Apartments",
+    "status": "Available",
+    "image": "https://readdy.ai/api/search-image?query=modern%201BHK%20apartment%20interior%2C%20compact%20living%20space%2C%20contemporary%20furniture%2C%20bright%20natural%20light%2C%20clean%20design%2C%20professional%20real%20estate%20photography&width=600&height=400&seq=9&orientation=landscape",
+    "alt": "1 BHK Apartment",
+    "title": "Oakwood Residences",
+    "subtitle": "Skyline Heights",
+    "price": "₹ 45 Lac",
+    "address": "23 Serenity Road, Goa",
+    "features": {
+      "beds": "1 Beds",
+      "baths": "1 Baths",
+      "area": "550 sq.ft",
+      "extra": [
+        "Lake Facing",
+        "Gated Community",
+        "Car Parking",
+        "Modern Kitchen"
+      ]
+    },
+    "detailsLink": "/OneBHK-listing"
+  }
+]
+ 
+ 
